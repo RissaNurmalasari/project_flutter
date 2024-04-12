@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "helloworld1",
+            "cwd": "helloworld1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "helloworld1 (profile mode)",
+            "cwd": "helloworld1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "helloworld1 (release mode)",
+            "cwd": "helloworld1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "helloworld1",
+            "cwd": "Project_Flutter\\helloworld1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "helloworld1 (profile mode)",
+            "cwd": "Project_Flutter\\helloworld1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "helloworld1 (release mode)",
+            "cwd": "Project_Flutter\\helloworld1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
